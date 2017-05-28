@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\bin\Debug\FizzBuzzCodeKata.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\bin\Debug\FizzBuzzCodeKata.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\bin\Debug\FizzBuzzCodeKata.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\obj\Debug\FizzBuzzCodeKata.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\obj\Debug\FizzBuzzCodeKata.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzzCodeKata\FizzBuzzCodeKata\obj\Debug\FizzBuzzCodeKata.pdb
